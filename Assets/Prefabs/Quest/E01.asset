@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efa35b48c39076e498f1ab0947b43ae2, type: 3}
+  m_Name: E01
+  m_EditorClassIdentifier: 
+  questCode: E01
+  title: "[\uC5D0\uD53D] \uADE0\uC5F4\uC758 \uC6D0\uC778 \uD0D0\uC0C9"
+  npcCode: T01
+  finishNpcCode: 
+  objective: "\uADE0\uC5F4 \uC18D \uC704\uD5D8\uD55C \uCD08\uC6D0 \uD0D0\uD5D8\uD558\uAE30"
+  state: 4
+  start_dialogue:
+  - "\uADE0\uC5F4\uC740 \uC800\uD76C\uB3C4 \uBAA8\uB974\uB294 \uC704\uD5D8\uD55C
+    \uACF3\uC774\uB2C8\uAE4C\n\uB4E4\uC5B4\uAC00\uAE30 \uC804\uC5D0 \uAF2D \uC900\uBE44\uB97C
+    \uD558\uACE0 \uB4E4\uC5B4\uAC00\uC154\uC57C \uD574\uC694.\t"
+  - "\uC88B\uC740 \uACB0\uACFC\uB97C \uAC00\uC838\uC624\uC168\uC73C\uBA74 \uC88B\uACA0\uC2B5\uB2C8\uB2E4.
+    \n\uC870\uC2EC\uD788 \uB2E4\uB140\uC624\uC138\uC694."
+  progress_dialogue:
+  - "\uADE0\uC5F4 \uC548\uC73C\uB85C \uB4E4\uC5B4\uAC00\uB294 \uAC8C \uB9DD\uC124\uC5EC\uC9C0\uC2DC\uB098\uC694?\n\uBB34\uB9AC\uD574\uC11C
+    \uAC08 \uD544\uC694\uB294 \uC5C6\uC5B4\uC694."
+  progress2_dialogue:
+  - "\uB2E4\uB140\uC624\uC168\uAD70\uC694!! \uADE0\uC5F4\uC758 \uC6D0\uC778\uC740
+    \uCC3E\uC73C\uC168\uB098\uC694??\n\uC624\uB7AB\uB3D9\uC548 \uB3CC\uC544\uC624\uC2DC\uC9C0
+    \uC54A\uC73C\uC154\uC11C \uAC71\uC815\uD588\uC5C8\uC5B4\uC694."
+  - "\uADE0\uC5F4 \uB05D \uCABD\uC5D0 \uB2E4\uB978 \uADE0\uC5F4\uC744 \uC9C0\uD0A4\uACE0
+    \uC788\uB294 \uBAAC\uC2A4\uD130\uAC00 \uC788\uC5C8\uB2E4\uACE0\uC694?\n\uADF8\uB7FC
+    \uCC28\uC6D0\uC758 \uADE0\uC5F4\uC740 \uC5EC\uAE30 \uD558\uB098\uB9CC \uC788\uB294\uAC8C
+    \uC544\uB2CC\uAC00\uBCF4\uAD70\uC694...\n\uC544\uBB34\uD2BC \uC218\uACE0 \uB9CE\uC73C\uC168\uC5B4\uC694."
+  nextquest: E02
+  exp: 50
+  money: 500
+  equip: {fileID: 0}

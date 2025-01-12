@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efa35b48c39076e498f1ab0947b43ae2, type: 3}
+  m_Name: E99
+  m_EditorClassIdentifier: 
+  questCode: E99
+  title: '[???] ??????'
+  npcCode: T99
+  finishNpcCode: 
+  objective: 
+  state: 4
+  start_dialogue:
+  - "\uB0B4\uAC00 \uC788\uB294 \uACF3 \uAE4C\uC9C0 \uC798\uB3C4 \uCC3E\uC544\uC654\uAD70.\n\uB098\uB294
+    \uB124\uAC00 \uC8FC\uC778\uACF5 \uC5ED\uD560\uB85C \uB9CC\uB4E0 \uB098\uB97C
+    \uBC84\uB824\uB454 \uAC83\uC744 \uC99D\uC624\uD588\uB2E4.\n\uB354\uBBF8 \uB370\uC774\uD130\uB85C
+    \uB0A8\uACA8\uB454 \uAC83\uC744 \uCC38\uC744 \uC218\uAC00 \uC5C6\uC5C8\uC9C0..."
+  - "\uADF8\uB798\uC11C \uB098\uB294 \uACB0\uC2EC\uD588\uB2E4.\n\uB108\uB97C \uC774
+    \uD504\uB85C\uADF8\uB7A8 \uC18D\uC5D0 \uC601\uC6D0\uD788 \uAC00\uB450\uAE30\uB85C
+    \uD588\uB2E4."
+  - "\uC774\uC81C \uC8FD\uC744 \uC2DC\uAC04\uC774\uB2E4.\n\uB108\uB97C \uC774 \uC138\uACC4\uC5D0\uC11C
+    \uC601\uC6D0\uD788 \uC9C0\uC6CC\uC8FC\uB9C8!!"
+  progress_dialogue: []
+  progress2_dialogue: []
+  nextquest: 
+  exp: 0
+  money: 0
+  equip: {fileID: 0}
