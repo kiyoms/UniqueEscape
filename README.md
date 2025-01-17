@@ -16,10 +16,11 @@
 
 
 ### 기능
-김민우 : 기획, 전체적인 게임 시스템 코딩<br>
-문기용 : 맵디자인, 퀘스트설정, UI, 애니메이션<br>
-조현석 : 기획, 전체적인 게임 시스템 코딩(밤낮,몬스터 hp)<br> 
+김민우 : 기획, 캐릭터 애니메이션, 게임 환경변수 및 시스템 코딩<br>
+문기용 : 맵디자인, 게임 환경설정, UI<br>
+조현석 : 기획, <br> 
 
+### 진행화면
 ![image](https://github.com/user-attachments/assets/16554e7c-c9d9-405f-a8d3-121d44ced0fa)
 
 ![image](https://github.com/user-attachments/assets/39171692-85f1-4f23-9ff6-6bd747df905f)
@@ -33,7 +34,28 @@
 
 ![image](https://github.com/user-attachments/assets/6b5e849a-6600-4903-946d-5614a88f9873)
 
-![Uploading image.png…]()
+![Screenshot_20211123-000938_UniqueEscape](https://github.com/user-attachments/assets/862a3e9b-1fcd-4d79-8a62-1262f53c64dc)
+
+![Screenshot_20211123-000729_UniqueEscape](https://github.com/user-attachments/assets/c376bf85-4180-4097-841a-8f89d050e4ac)
+
+![Screenshot_20211214-213756_UniqueEscape](https://github.com/user-attachments/assets/8f4f7b38-12e6-4721-820a-ce5cc92c9a48)
+
+### 주요코드
+
+### 진행하면서 아쉬웠던 점
+처음 기획할때는 게임진행중 다양한 돌발상황으로 더 재미를 주기 위해 밤/낮을 만들어 밤에는 몬스터가 더 강해지고, 돌발미션을 만들어 미션을 클리어 할 시 추가 보상을주는 기능을 생각했었는데,
+에셋을 구매해 적용하는건 재밌었지만 다양한 에셋들을 알맞게 배치하는것도 힘들었고
+
+
+
+
+
+
+
+
+
+
+
 
 
 
